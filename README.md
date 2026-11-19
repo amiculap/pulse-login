@@ -8,7 +8,7 @@
 
 ![Price](https://img.shields.io/badge/price-5%E2%82%AC-ED4245?style=for-the-badge) ![Works with](https://img.shields.io/badge/works%20with-vRP-1f1f1f?style=for-the-badge) ![FiveM](https://img.shields.io/badge/FiveM-script-ED4245?style=for-the-badge)
 
-[**Get it on Discord**](https://discord.gg/HmjEXhPF3Q) &nbsp;•&nbsp; [**All Pulse Store products**](https://github.com/amiculap/pulse-portfolio)
+[**Get it on Discord**](https://discord.gg/czRymmEfuS) &nbsp;•&nbsp; [**All Pulse Store products**](https://github.com/amiculap/pulse-portfolio)
 
 </div>
 
@@ -69,7 +69,7 @@ PULSE-LOGIN is a login and register system for **vRP** servers. Players create a
 
 **Price: 5€**
 
-1. Join the [Pulse Store Discord](https://discord.gg/HmjEXhPF3Q)
+1. Join the [Pulse Store Discord](https://discord.gg/czRymmEfuS)
 2. Open a ticket in **#tickets**
 3. Tell us what you need and get the details
 
